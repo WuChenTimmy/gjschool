@@ -9,3 +9,7 @@
 第二行<br>
 第三行<br>
 <hr>
+外網<br> 連結名稱 地點
+[KIMO](http://tw.yahoo.com)
+內網<br>
+[測試網頁]()
