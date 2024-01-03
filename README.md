@@ -32,4 +32,5 @@
   </tr>
 </table>
 
-<img alt="BOB.webp" src="pic/BOB.webp">
+插入圖片HTML打法<br>
+<img alt="BOB2.webp" src="pic/BOB2.webp">
