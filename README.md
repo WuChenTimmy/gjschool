@@ -19,3 +19,17 @@
 
 插入圖片打法:![圖片名稱] (圖片地點)<br>
 ![BOB](pic/BOB.webp)
+
+插入表格打法<br>
+<table align=center>
+  <tr>
+    <td>Title</td>
+    <td>BoB</td>
+  </tr>
+  <tr>
+    <td>蘿波</td>
+    <td>提姆</td>
+  </tr>
+</table>
+
+<img alt="BOB.webp" src="pic/BOB.webp">
