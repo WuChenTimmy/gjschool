@@ -9,10 +9,11 @@
 第二行<br>
 第三行<br>
 <hr>
-外網 連結名稱 地點<br>
+連結名稱:[] 地點:()<br>
+外網<br>
 
 [KIMO](http://tw.yahoo.com)
 
 內網<br>
 
-[測試網頁]()
+[測試網頁](pic/BOB.webp)
