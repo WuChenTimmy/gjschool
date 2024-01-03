@@ -9,7 +9,8 @@
 第二行<br>
 第三行<br>
 <hr>
-連結名稱:[] 地點:()<br>
+超連結打法<br>
+[連結名稱] (地點)<br>
 外網<br>
 
 [KIMO](http://tw.yahoo.com)
